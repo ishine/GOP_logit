@@ -22,7 +22,7 @@ If you use this work, please cite it as:
   primaryClass={eess.AS},
   url={https://arxiv.org/abs/2506.12067}
 }
- 
+```
 
 ## 📚 APA
 Parikh, A. K., Tejedor-Garcia, C., Cucchiarini, C., & Strik, H. (2025). Evaluating logit-based GOP scores for mispronunciation detection. arXiv. https://doi.org/10.48550/arXiv.2506.12067
