@@ -25,8 +25,7 @@ If you use this work, please cite it as:
 ```
 
 ## 📚 APA
-Parikh, A. K., Tejedor-Garcia, C., Cucchiarini, C., & Strik, H. (2025). Evaluating logit-based GOP scores for mispronunciation detection. arXiv. https://doi.org/10.48550/arXiv.2506.12067
-Accepted at Interspeech 2025.
+Parikh, A.K., Tejedor-Garcia, C., Cucchiarini, C., Strik, H. (2025) Evaluating Logit-Based GOP Scores for Mispronunciation Detection. Proc. Interspeech 2025, 2405-2409, doi: 10.21437/Interspeech.2025-1012
  
  
 ## Acknowledgements
