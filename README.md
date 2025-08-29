@@ -13,14 +13,14 @@ If you use this work, please cite it as:
  
 ### 📄 LaTeX (BibTeX)
 ```bibtex
-@misc{parikh2025evaluatinglogitbasedgopscores,
-  title={Evaluating Logit-Based GOP Scores for Mispronunciation Detection}, 
-  author={Aditya Kamlesh Parikh and Cristian Tejedor-Garcia and Catia Cucchiarini and Helmer Strik},
-  year={2025},
-  eprint={2506.12067},
-  archivePrefix={arXiv},
-  primaryClass={eess.AS},
-  url={https://arxiv.org/abs/2506.12067}
+@inproceedings{parikh25b_interspeech,
+  title     = {{Evaluating Logit-Based GOP Scores for Mispronunciation Detection}},
+  author    = {Aditya Kamlesh Parikh and Cristian Tejedor-Garcia and Catia Cucchiarini and Helmer Strik},
+  year      = {2025},
+  booktitle = {{Interspeech 2025}},
+  pages     = {2405--2409},
+  doi       = {10.21437/Interspeech.2025-1012},
+  issn      = {2958-1796},
 }
 ```
 
